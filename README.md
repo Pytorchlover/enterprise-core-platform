@@ -379,7 +379,7 @@ code/
 
 🔗 **GitHub 仓库**：[https://github.com/Pytorchlover/enterprise-core-platform](https://github.com/Pytorchlover/enterprise-core-platform)
 
-🔗 **在线访问**：https://space.coze.cn/task/7577993168512303379
+🔗 **在线访问**：[https://enterprise-core-platform.vercel.app/](https://enterprise-core-platform.vercel.app/)
 
 ### 本项目由 [网站开发专家](https://space.coze.cn/) 创建
 
